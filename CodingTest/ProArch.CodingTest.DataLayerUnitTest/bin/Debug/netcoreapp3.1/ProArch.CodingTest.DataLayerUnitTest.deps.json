@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProArch.CodingTest.DataLayerUnitTest/1.0.0": {
+        "dependencies": {
+          "ProArch.CodingTest": "1.0.0",
+          "ProArch.CodingTest.External": "1.0.0"
+        },
+        "runtime": {
+          "ProArch.CodingTest.DataLayerUnitTest.dll": {}
+        }
+      },
+      "ProArch.CodingTest/1.0.0": {
+        "dependencies": {
+          "ProArch.CodingTest.External": "1.0.0"
+        },
+        "runtime": {
+          "ProArch.CodingTest.dll": {}
+        }
+      },
+      "ProArch.CodingTest.External/1.0.0": {
+        "runtime": {
+          "ProArch.CodingTest.External.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProArch.CodingTest.DataLayerUnitTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProArch.CodingTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProArch.CodingTest.External/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
